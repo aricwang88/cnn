@@ -1,5 +1,5 @@
 # cnn
-My frist cnn program, it can use picture to train and save the cnn model, by Sun Yi, base on tensorflow and opencv. 
+My frist CNN program, it can use pictures to train and save the CNN model, by Sun Yi, base on Tensorflow and Opencv. 
 
 you can use this program by:
 
