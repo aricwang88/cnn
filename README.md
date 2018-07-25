@@ -1,6 +1,10 @@
 # cnn
 My frist cnn program, it can use picture to train and save the cnn model, by Sun Yi, base on tensorflow and opencv. 
 
+you can use this program by:
+python CNN_train.py
+python CNN_test.py
+
 --------file list-------
 
 CNN.conf               : This is a config file, you can use it to control all things in train and test processing.
